@@ -89,7 +89,7 @@ button:hover {
 }
 
 .checkbox:checked::before {
-  content: url('./icon-check.svg');
+  content: url('/icon-check.svg');
   display: flex;
   align-items: center;
   justify-content: center;
